@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - grass
+  - beak
+  - timeneg
+  - timepos
+  - coin
+  - zone
+  - inv
+  - circle
+  - run
+  - runbad
+  - sand
+  - thunder
+  - snake
+  - fire
+  - cristal
+  - bird
+  - hp
+  - laser
+  - die
+  - key
+  - boss
+  - mr
+  - taco
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

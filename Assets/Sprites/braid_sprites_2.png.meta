@@ -1,0 +1,4020 @@
+fileFormatVersion: 2
+guid: fa3d2b52fa792ee40a241e4af03a4338
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -709208070802281990
+    second: braid_sprites_2_0
+  - first:
+      213: 2316271437046384255
+    second: braid_sprites_2_1
+  - first:
+      213: 3549421493095082672
+    second: braid_sprites_2_2
+  - first:
+      213: 5249826494257808234
+    second: braid_sprites_2_3
+  - first:
+      213: -1773306451398852742
+    second: braid_sprites_2_4
+  - first:
+      213: 5559851046157344254
+    second: braid_sprites_2_5
+  - first:
+      213: -6974159580555053562
+    second: braid_sprites_2_6
+  - first:
+      213: -5216649674721933523
+    second: braid_sprites_2_7
+  - first:
+      213: 3333661249828087751
+    second: braid_sprites_2_8
+  - first:
+      213: -8088164423613094141
+    second: braid_sprites_2_9
+  - first:
+      213: -413575131861185621
+    second: braid_sprites_2_10
+  - first:
+      213: 2787517372102541087
+    second: braid_sprites_2_11
+  - first:
+      213: -475882071316876559
+    second: braid_sprites_2_12
+  - first:
+      213: 3657795455429274461
+    second: braid_sprites_2_13
+  - first:
+      213: 916776247429153760
+    second: braid_sprites_2_14
+  - first:
+      213: -1795376280808874675
+    second: braid_sprites_2_15
+  - first:
+      213: -6630507906739039019
+    second: braid_sprites_2_16
+  - first:
+      213: 1910013612720784774
+    second: braid_sprites_2_17
+  - first:
+      213: 9126136596394016150
+    second: braid_sprites_2_18
+  - first:
+      213: 8700863553365060478
+    second: braid_sprites_2_19
+  - first:
+      213: 4047877373195618306
+    second: braid_sprites_2_20
+  - first:
+      213: 945572856037489013
+    second: braid_sprites_2_21
+  - first:
+      213: -7016646340172100631
+    second: braid_sprites_2_22
+  - first:
+      213: 420537427428798078
+    second: braid_sprites_2_23
+  - first:
+      213: -917236749462697675
+    second: braid_sprites_2_24
+  - first:
+      213: 1620839414190009135
+    second: braid_sprites_2_25
+  - first:
+      213: -1067575903722338050
+    second: braid_sprites_2_26
+  - first:
+      213: 5710323097720743234
+    second: braid_sprites_2_27
+  - first:
+      213: 2219658782284218456
+    second: braid_sprites_2_28
+  - first:
+      213: -6679687797652488536
+    second: braid_sprites_2_29
+  - first:
+      213: -3482031985507258625
+    second: braid_sprites_2_30
+  - first:
+      213: 121564691358599363
+    second: braid_sprites_2_31
+  - first:
+      213: -5616136669019037942
+    second: braid_sprites_2_32
+  - first:
+      213: -2960267498839115795
+    second: braid_sprites_2_33
+  - first:
+      213: 5305442197824858387
+    second: braid_sprites_2_34
+  - first:
+      213: 5747448440223470102
+    second: braid_sprites_2_35
+  - first:
+      213: 8042390231856688065
+    second: braid_sprites_2_36
+  - first:
+      213: -5006554828574369054
+    second: braid_sprites_2_37
+  - first:
+      213: -1925084151747265548
+    second: braid_sprites_2_38
+  - first:
+      213: -7760917727075876230
+    second: braid_sprites_2_39
+  - first:
+      213: -8183620911934002855
+    second: braid_sprites_2_40
+  - first:
+      213: -6826738217677144196
+    second: braid_sprites_2_41
+  - first:
+      213: -1211668999335970724
+    second: braid_sprites_2_42
+  - first:
+      213: 3809130466939873486
+    second: braid_sprites_2_43
+  - first:
+      213: 4206171676178877975
+    second: braid_sprites_2_44
+  - first:
+      213: 3134988285477444049
+    second: braid_sprites_2_45
+  - first:
+      213: 4634918277269696164
+    second: braid_sprites_2_46
+  - first:
+      213: 5371793721517720959
+    second: braid_sprites_2_47
+  - first:
+      213: 3535197307116656232
+    second: braid_sprites_2_48
+  - first:
+      213: 6603873293690461062
+    second: braid_sprites_2_49
+  - first:
+      213: -2310938545823662691
+    second: braid_sprites_2_50
+  - first:
+      213: 8637945355654468687
+    second: braid_sprites_2_51
+  - first:
+      213: -1639272482644761506
+    second: braid_sprites_2_52
+  - first:
+      213: 7862346086740463880
+    second: braid_sprites_2_53
+  - first:
+      213: 6723818869970968133
+    second: braid_sprites_2_54
+  - first:
+      213: -1541208427585851949
+    second: braid_sprites_2_55
+  - first:
+      213: 2217022732834187805
+    second: braid_sprites_2_56
+  - first:
+      213: -1472695380649390882
+    second: braid_sprites_2_57
+  - first:
+      213: -1318692276443714644
+    second: braid_sprites_2_58
+  - first:
+      213: -301124711869805208
+    second: braid_sprites_2_59
+  - first:
+      213: -8641257060898444898
+    second: braid_sprites_2_60
+  - first:
+      213: 1828490885364150855
+    second: braid_sprites_2_61
+  - first:
+      213: 5721965772562616493
+    second: braid_sprites_2_62
+  - first:
+      213: -6672739331067648563
+    second: braid_sprites_2_63
+  - first:
+      213: -5377060869979618451
+    second: braid_sprites_2_64
+  - first:
+      213: 6018197448734943220
+    second: braid_sprites_2_65
+  - first:
+      213: 8312929907387709514
+    second: braid_sprites_2_66
+  - first:
+      213: 4744745039937843200
+    second: braid_sprites_2_67
+  - first:
+      213: -4635003928671786038
+    second: braid_sprites_2_68
+  - first:
+      213: 4011630959872463927
+    second: braid_sprites_2_69
+  - first:
+      213: -1920470636567113762
+    second: braid_sprites_2_70
+  - first:
+      213: -6769832767161963934
+    second: braid_sprites_2_71
+  - first:
+      213: 3095807051635234556
+    second: braid_sprites_2_72
+  - first:
+      213: 1404409477892210888
+    second: braid_sprites_2_73
+  - first:
+      213: 200616783496027600
+    second: braid_sprites_2_74
+  - first:
+      213: 971557229964720060
+    second: braid_sprites_2_75
+  - first:
+      213: -2729266357837962355
+    second: braid_sprites_2_76
+  - first:
+      213: -6569148892852027570
+    second: braid_sprites_2_77
+  - first:
+      213: -8492709378470164095
+    second: braid_sprites_2_78
+  - first:
+      213: -5032151174809367671
+    second: braid_sprites_2_79
+  - first:
+      213: -4261257141505497551
+    second: braid_sprites_2_80
+  - first:
+      213: -4062515541769450067
+    second: braid_sprites_2_81
+  - first:
+      213: 2403884759362462976
+    second: braid_sprites_2_82
+  - first:
+      213: -1303164448249946366
+    second: braid_sprites_2_83
+  - first:
+      213: -3613907878569208122
+    second: braid_sprites_2_84
+  - first:
+      213: -9172427556269564450
+    second: braid_sprites_2_85
+  - first:
+      213: -3499340153155284025
+    second: braid_sprites_2_86
+  - first:
+      213: -5869406440816237753
+    second: braid_sprites_2_87
+  - first:
+      213: -6110970079151484764
+    second: braid_sprites_2_88
+  - first:
+      213: -1736843872867865885
+    second: braid_sprites_2_89
+  - first:
+      213: -5918365354620718748
+    second: braid_sprites_2_90
+  - first:
+      213: 3824460854349138385
+    second: braid_sprites_2_91
+  - first:
+      213: 6768497003689212443
+    second: braid_sprites_2_92
+  - first:
+      213: -5955412491481839653
+    second: braid_sprites_2_93
+  - first:
+      213: 8138419273099841779
+    second: braid_sprites_2_94
+  - first:
+      213: 7593116304174793944
+    second: braid_sprites_2_95
+  - first:
+      213: 6150772682552519654
+    second: braid_sprites_2_96
+  - first:
+      213: 7559453375387973841
+    second: braid_sprites_2_97
+  - first:
+      213: 5243872534417651322
+    second: braid_sprites_2_98
+  - first:
+      213: -2268105525773059717
+    second: braid_sprites_2_99
+  - first:
+      213: 4613272518292979643
+    second: braid_sprites_2_100
+  - first:
+      213: 3305885267580369535
+    second: braid_sprites_2_101
+  - first:
+      213: -183991846343725288
+    second: braid_sprites_2_102
+  - first:
+      213: -5145115995490977642
+    second: braid_sprites_2_103
+  - first:
+      213: 5511725426366540161
+    second: braid_sprites_2_104
+  - first:
+      213: 6315807331032267419
+    second: braid_sprites_2_105
+  - first:
+      213: 4974508481040401654
+    second: braid_sprites_2_106
+  - first:
+      213: -7318773895859825351
+    second: braid_sprites_2_107
+  - first:
+      213: 2352087271623879070
+    second: braid_sprites_2_108
+  - first:
+      213: 4276509551677457109
+    second: braid_sprites_2_109
+  - first:
+      213: -2070144933291183910
+    second: braid_sprites_2_110
+  - first:
+      213: -2387789113307319920
+    second: braid_sprites_2_111
+  - first:
+      213: -8245940150685212826
+    second: braid_sprites_2_112
+  - first:
+      213: 4640576890424899948
+    second: braid_sprites_2_113
+  - first:
+      213: 1627571895249570366
+    second: braid_sprites_2_114
+  - first:
+      213: -1764441335512004985
+    second: braid_sprites_2_115
+  - first:
+      213: 9137242191833876590
+    second: braid_sprites_2_116
+  - first:
+      213: -4820340877989659730
+    second: braid_sprites_2_117
+  - first:
+      213: -3320412614669941899
+    second: braid_sprites_2_118
+  - first:
+      213: 7746552696519549465
+    second: braid_sprites_2_119
+  - first:
+      213: 8837670184360934284
+    second: braid_sprites_2_120
+  - first:
+      213: 6569040705223875865
+    second: braid_sprites_2_121
+  - first:
+      213: -9062872799725811228
+    second: braid_sprites_2_122
+  - first:
+      213: 8538630012087889311
+    second: braid_sprites_2_123
+  - first:
+      213: -6984933375983329591
+    second: braid_sprites_2_124
+  - first:
+      213: -2568776171738741326
+    second: braid_sprites_2_125
+  - first:
+      213: -4181478288394771149
+    second: braid_sprites_2_126
+  - first:
+      213: -4127606064149502080
+    second: braid_sprites_2_127
+  - first:
+      213: -3352127035539820512
+    second: braid_sprites_2_128
+  - first:
+      213: 4894585398649046646
+    second: braid_sprites_2_129
+  - first:
+      213: -7588203159159160643
+    second: braid_sprites_2_130
+  - first:
+      213: -4192682080947652699
+    second: braid_sprites_2_131
+  - first:
+      213: 479139565865329786
+    second: braid_sprites_2_132
+  - first:
+      213: 777135603036855084
+    second: braid_sprites_2_133
+  - first:
+      213: -6389892900525911700
+    second: braid_sprites_2_134
+  - first:
+      213: -5389919521458832624
+    second: braid_sprites_2_135
+  - first:
+      213: 2116884907269347962
+    second: braid_sprites_2_136
+  - first:
+      213: -3937263508755475405
+    second: braid_sprites_2_137
+  - first:
+      213: -5579072784378609192
+    second: braid_sprites_2_138
+  - first:
+      213: 6182319753504794131
+    second: braid_sprites_2_139
+  - first:
+      213: -2515455062593686544
+    second: braid_sprites_2_140
+  - first:
+      213: -3014995325186828541
+    second: braid_sprites_2_141
+  - first:
+      213: -5734212237300448879
+    second: braid_sprites_2_142
+  - first:
+      213: 7902405551170285419
+    second: braid_sprites_2_143
+  - first:
+      213: -1941133109420098025
+    second: braid_sprites_2_144
+  - first:
+      213: 1862950130210662521
+    second: braid_sprites_2_145
+  - first:
+      213: 2819851913568921299
+    second: braid_sprites_2_146
+  - first:
+      213: 8717646672718400525
+    second: braid_sprites_2_147
+  - first:
+      213: 2004861812486859998
+    second: braid_sprites_2_148
+  - first:
+      213: -3013448093716640896
+    second: braid_sprites_2_149
+  - first:
+      213: -415181172462126354
+    second: braid_sprites_2_150
+  - first:
+      213: -7267114393438149886
+    second: braid_sprites_2_151
+  - first:
+      213: -5618430179821229964
+    second: braid_sprites_2_152
+  - first:
+      213: -399903198154010552
+    second: braid_sprites_2_153
+  - first:
+      213: 39224537538339150
+    second: braid_sprites_2_154
+  - first:
+      213: 3606159263522873109
+    second: braid_sprites_2_155
+  - first:
+      213: 5573362062064268363
+    second: braid_sprites_2_156
+  - first:
+      213: -4553197527324434891
+    second: braid_sprites_2_157
+  - first:
+      213: 8634714802586795903
+    second: braid_sprites_2_158
+  - first:
+      213: -9187041385252367404
+    second: braid_sprites_2_159
+  - first:
+      213: -756575267721076457
+    second: braid_sprites_2_160
+  - first:
+      213: 7488812239097529350
+    second: braid_sprites_2_161
+  - first:
+      213: -3088863686814818992
+    second: braid_sprites_2_162
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: braid_sprites_2_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96df364036826f0800000000000000
+      internalID: -709208070802281990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f768880999c052020800000000000000
+      internalID: 2316271437046384255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baa116da04124130800000000000000
+      internalID: 3549421493095082672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63cbaab1612bd840800000000000000
+      internalID: 5249826494257808234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f76768d23f367e0800000000000000
+      internalID: -1773306451398852742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1209
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdda42b11f882d40800000000000000
+      internalID: 5559851046157344254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1209
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606f02aefcec63f90800000000000000
+      internalID: -6974159580555053562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_7
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1209
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27ca8482ccba97b0800000000000000
+      internalID: -5216649674721933523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_8
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7ec758e3b834e20800000000000000
+      internalID: 3333661249828087751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307e6954f4111cf80800000000000000
+      internalID: -8088164423613094141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab8a79db9fa24af0800000000000000
+      internalID: -413575131861185621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_11
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ff661f7404fa620800000000000000
+      internalID: 2787517372102541087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_12
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23e2807c35569f0800000000000000
+      internalID: -475882071316876559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_13
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b66ed369913c230800000000000000
+      internalID: 3657795455429274461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_14
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c786c32b09bc00800000000000000
+      internalID: 916776247429153760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_15
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1209
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d9930f8ca8517e0800000000000000
+      internalID: -1795376280808874675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_16
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d496625034bbf3a0800000000000000
+      internalID: -6630507906739039019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850266d24bb18a10800000000000000
+      internalID: 1910013612720784774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_18
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69df1cfc1ec86ae70800000000000000
+      internalID: 9126136596394016150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_19
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ba7797d4dafb870800000000000000
+      internalID: 8700863553365060478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_20
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2088aab3603fc2830800000000000000
+      internalID: 4047877373195618306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_21
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1209
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579bd51b0895f1d00800000000000000
+      internalID: 945572856037489013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_22
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1209
+        width: 78
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb4f73545ddf9e90800000000000000
+      internalID: -7016646340172100631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_23
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 1209
+        width: 91
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e66a8ef8c06d500800000000000000
+      internalID: 420537427428798078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1033
+        width: 121
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539875d39025543f0800000000000000
+      internalID: -917236749462697675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1032
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b6fb01cd06e7610800000000000000
+      internalID: 1620839414190009135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1030
+        width: 121
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef80ddf2f553f21f0800000000000000
+      internalID: -1067575903722338050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1030
+        width: 115
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2456a505a942f3f40800000000000000
+      internalID: 5710323097720743234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1026
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85080a8f6efcdce10800000000000000
+      internalID: 2219658782284218456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_29
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1026
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae796aa65bfc43a0800000000000000
+      internalID: -6679687797652488536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_30
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1027
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeaa479b565dafc0800000000000000
+      internalID: -3482031985507258625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_31
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1027
+        width: 100
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8c8a55172efa100800000000000000
+      internalID: 121564691358599363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_32
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1026
+        width: 98
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f131184797f02b0800000000000000
+      internalID: -5616136669019037942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_33
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1046
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77f8bd4640be6d0800000000000000
+      internalID: -2960267498839115795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_34
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1053
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319e7b9c197b0a940800000000000000
+      internalID: 5305442197824858387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_35
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1053
+        width: 94
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6129464b7e903cf40800000000000000
+      internalID: 5747448440223470102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_36
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1057
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba3e23e4f4c9f60800000000000000
+      internalID: 8042390231856688065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_37
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1054
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eade46c8e4258ab0800000000000000
+      internalID: -5006554828574369054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_38
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1051
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbbe5cd92ab845e0800000000000000
+      internalID: -1925084151747265548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_39
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1059
+        width: 125
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a724c92427eab4490800000000000000
+      internalID: -7760917727075876230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_40
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1059
+        width: 125
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95927b7a320fd6e80800000000000000
+      internalID: -8183620911934002855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_41
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1059
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f35c8b2cd8241a0800000000000000
+      internalID: -6826738217677144196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 876
+        width: 96
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58f93df6794f2fe0800000000000000
+      internalID: -1211668999335970724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 879
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8a1116affbcd430800000000000000
+      internalID: 3809130466939873486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 878
+        width: 101
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e83feaad25f5a30800000000000000
+      internalID: 4206171676178877975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 877
+        width: 104
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9d4ea5c37b18b20800000000000000
+      internalID: 3134988285477444049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 882
+        width: 109
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae20a7cd99825040800000000000000
+      internalID: 4634918277269696164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 885
+        width: 118
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ccb1cde17c8a40800000000000000
+      internalID: 5371793721517720959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 885
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661b95783b8f0130800000000000000
+      internalID: 3535197307116656232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_49
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 882
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bdb1495cba5ab50800000000000000
+      internalID: 6603873293690461062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_50
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 880
+        width: 103
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d3c6ee2a5edefd0800000000000000
+      internalID: -2310938545823662691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_51
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 885
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f441501098520e770800000000000000
+      internalID: 8637945355654468687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_52
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 882
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54e2edbc522049e0800000000000000
+      internalID: -1639272482644761506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_53
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 877
+        width: 98
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80119510c1aac1d60800000000000000
+      internalID: 7862346086740463880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_54
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 874
+        width: 93
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e10be43adcf4d50800000000000000
+      internalID: 6723818869970968133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_55
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 875
+        width: 95
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd28ecc9178c9ae0800000000000000
+      internalID: -1541208427585851949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_56
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 877
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a2c81ed6274ce10800000000000000
+      internalID: 2217022732834187805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_57
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 879
+        width: 98
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc80e9a5fef8be0800000000000000
+      internalID: -1472695380649390882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_58
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 879
+        width: 103
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab658e7c5013bde0800000000000000
+      internalID: -1318692276443714644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_59
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 880
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d88e38ba032dbf0800000000000000
+      internalID: -301124711869805208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 737
+        width: 105
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ef488c76141880800000000000000
+      internalID: -8641257060898444898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 737
+        width: 106
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7427b21c5ca106910800000000000000
+      internalID: 1828490885364150855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_62
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 736
+        width: 100
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0d98acd81886f40800000000000000
+      internalID: 5721965772562616493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 734
+        width: 96
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc56fec9eeaa563a0800000000000000
+      internalID: -6672739331067648563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 735
+        width: 100
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63463da0a7d065b0800000000000000
+      internalID: -5377060869979618451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_65
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 735
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72200a1bee48350800000000000000
+      internalID: 6018197448734943220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_66
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 735
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b09cf4b57d5370800000000000000
+      internalID: 8312929907387709514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_67
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 735
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ba4f9978b8d140800000000000000
+      internalID: 4744745039937843200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_68
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 737
+        width: 114
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb6af2fb782dafb0800000000000000
+      internalID: -4635003928671786038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_69
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 706
+        width: 109
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734582d7a1d2ca730800000000000000
+      internalID: 4011630959872463927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_70
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 706
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf49d1912e1955e0800000000000000
+      internalID: -1920470636567113762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_71
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 706
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae28467f8bc02a0800000000000000
+      internalID: -6769832767161963934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_72
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 707
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf61ed57c1486fa20800000000000000
+      internalID: 3095807051635234556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_73
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 707
+        width: 110
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c005f0baf67d7310800000000000000
+      internalID: 1404409477892210888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_74
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 795
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1344d6ebb8c200800000000000000
+      internalID: 200616783496027600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_75
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 767
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb77203372aab7d00800000000000000
+      internalID: 971557229964720060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_76
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 767
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e4a335b2bf1ad0800000000000000
+      internalID: -2729266357837962355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_77
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 734
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f77e403e1b5d4a0800000000000000
+      internalID: -6569148892852027570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_78
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 733
+        width: 86
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18948ab01d5d32a80800000000000000
+      internalID: -8492709378470164095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_79
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 745
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4c610b253a2ab0800000000000000
+      internalID: -5032151174809367671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_80
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 737
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e7f7f439fcd4c0800000000000000
+      internalID: -4261257141505497551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_81
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 737
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad045e83ab0f97c0800000000000000
+      internalID: -4062515541769450067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_82
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 737
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00566cac3705c5120800000000000000
+      internalID: 2403884759362462976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_83
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 548
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fd42ab6da3aede0800000000000000
+      internalID: -1303164448249946366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_84
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 543
+        width: 101
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c695e68ee1d8ddc0800000000000000
+      internalID: -3613907878569208122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 552
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd5c843cbdf4b080800000000000000
+      internalID: -9172427556269564450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_86
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 553
+        width: 107
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c31be6cba8df6fc0800000000000000
+      internalID: -3499340153155284025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_87
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 542
+        width: 103
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74322c480fdab8ea0800000000000000
+      internalID: -5869406440816237753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_88
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 542
+        width: 99
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0922f1719713ba0800000000000000
+      internalID: -6110970079151484764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_89
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 552
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaa56723bd75e7e0800000000000000
+      internalID: -1736843872867865885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_90
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 553
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617ada111ebddda0800000000000000
+      internalID: -5918365354620718748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_91
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 545
+        width: 124
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d90ed852e6331530800000000000000
+      internalID: 3824460854349138385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_92
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 541
+        width: 129
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1af030f9288eed50800000000000000
+      internalID: 6768497003689212443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_93
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 543
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70d4264ef1a5da0800000000000000
+      internalID: -5955412491481839653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_94
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 547
+        width: 118
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f01f4ea53971f070800000000000000
+      internalID: 8138419273099841779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_95
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 547
+        width: 115
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c0907c0b206960800000000000000
+      internalID: 7593116304174793944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_96
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 548
+        width: 117
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb28b5aa2feb5550800000000000000
+      internalID: 6150772682552519654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_97
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 545
+        width: 113
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8b0201bc298e860800000000000000
+      internalID: 7559453375387973841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_98
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 545
+        width: 111
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76346d694af5c840800000000000000
+      internalID: 5243872534417651322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_99
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 416
+        width: 88
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79323f8a021680e0800000000000000
+      internalID: -2268105525773059717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_100
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 369
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfbce8c9e2a50040800000000000000
+      internalID: 4613272518292979643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_101
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 369
+        width: 104
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a3352b22dd0ed20800000000000000
+      internalID: 3305885267580369535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_102
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 369
+        width: 106
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f2d1df364527df0800000000000000
+      internalID: -183991846343725288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_103
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 369
+        width: 106
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69874981340e898b0800000000000000
+      internalID: -5145115995490977642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_104
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 370
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189e01aa2159d7c40800000000000000
+      internalID: 5511725426366540161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_105
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 369
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a7cf31e4146a750800000000000000
+      internalID: 6315807331032267419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_106
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 369
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c4908b11090540800000000000000
+      internalID: 4974508481040401654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_107
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 369
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9359fd11bed7e6a90800000000000000
+      internalID: -7318773895859825351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_108
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 369
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ebd169ea44a020800000000000000
+      internalID: 2352087271623879070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_109
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 370
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2cc4287c6395b30800000000000000
+      internalID: 4276509551677457109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_110
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 370
+        width: 111
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0ba99b62e5543e0800000000000000
+      internalID: -2070144933291183910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_111
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 370
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b5c6d37edcded0800000000000000
+      internalID: -2387789113307319920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_112
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 369
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd64f2f19809d80800000000000000
+      internalID: -8245940150685212826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_113
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 369
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69b9a25814a66040800000000000000
+      internalID: 4640576890424899948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_114
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 369
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a82c6f30c469610800000000000000
+      internalID: 1627571895249570366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_115
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 466
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7868ac924f17387e0800000000000000
+      internalID: -1764441335512004985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_116
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 466
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6848febc510ece70800000000000000
+      internalID: 9137242191833876590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_117
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 448
+        width: 126
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabb12fb285ba1db0800000000000000
+      internalID: -4820340877989659730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_118
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 432
+        width: 145
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5734fdab1568be1d0800000000000000
+      internalID: -3320412614669941899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_119
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 416
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91264ed62a8418b60800000000000000
+      internalID: 7746552696519549465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_120
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 416
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bf4ec6536b5aa70800000000000000
+      internalID: 8837670184360934284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_121
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 418
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d53f597bbe92b50800000000000000
+      internalID: 6569040705223875865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_122
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 276
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e90bcfa4353a3280800000000000000
+      internalID: -9062872799725811228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_123
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 211
+        width: 106
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9decf2a1ce4f7670800000000000000
+      internalID: 8538630012087889311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_124
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 213
+        width: 111
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce5eb03a18801f90800000000000000
+      internalID: -6984933375983329591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_125
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 213
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b546088eafd95cd0800000000000000
+      internalID: -2568776171738741326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_126
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 211
+        width: 120
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a830b6a768f5c0800000000000000
+      internalID: -4181478288394771149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_127
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 211
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087ee95572cc7b6c0800000000000000
+      internalID: -4127606064149502080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_128
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 211
+        width: 116
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0207aa4b83ada71d0800000000000000
+      internalID: -3352127035539820512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_129
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 210
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6764a49cc7f0de340800000000000000
+      internalID: 4894585398649046646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_130
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 210
+        width: 107
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db042d64e6941b690800000000000000
+      internalID: -7588203159159160643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_131
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 208
+        width: 97
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a738f47cd990d5c0800000000000000
+      internalID: -4192682080947652699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_132
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 204
+        width: 93
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ec3585ee36a600800000000000000
+      internalID: 479139565865329786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_133
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 206
+        width: 111
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b1259a6b0f8ca00800000000000000
+      internalID: 777135603036855084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_134
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 206
+        width: 114
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61dc57134a8257a0800000000000000
+      internalID: -6389892900525911700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_135
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 206
+        width: 118
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bb08390c82335b0800000000000000
+      internalID: -5389919521458832624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_136
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 207
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7adc208b9fa06d10800000000000000
+      internalID: 2116884907269347962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_137
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 208
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334958503b70c59c0800000000000000
+      internalID: -3937263508755475405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_138
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 207
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1401f9cd62392b0800000000000000
+      internalID: -5579072784378609192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_139
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 207
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a88b7f030cc550800000000000000
+      internalID: 6182319753504794131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_140
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 208
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f335a1b2fe471dd0800000000000000
+      internalID: -2515455062593686544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_141
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 32
+        width: 83
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30796c2d9b59826d0800000000000000
+      internalID: -3014995325186828541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_142
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 31
+        width: 86
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1914201f95cfb60b0800000000000000
+      internalID: -5734212237300448879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_143
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 31
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f6494eafbfaad60800000000000000
+      internalID: 7902405551170285419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_144
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 77
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ef347b8b5bf05e0800000000000000
+      internalID: -1941133109420098025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_145
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 31
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9786979e5478ad910800000000000000
+      internalID: 1862950130210662521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_146
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 35
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d62b7b0060222720800000000000000
+      internalID: 2819851913568921299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_147
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 35
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c0fb4f57d4bf870800000000000000
+      internalID: 8717646672718400525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_148
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 35
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc660d3233b2db10800000000000000
+      internalID: 2004861812486859998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_149
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 35
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b01f8bce41e26d0800000000000000
+      internalID: -3013448093716640896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_150
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 35
+        width: 89
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaf6f16ceafc3af0800000000000000
+      internalID: -415181172462126354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_151
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 35
+        width: 88
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203adf446f5062b90800000000000000
+      internalID: -7267114393438149886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_152
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 35
+        width: 86
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478eb68e4835702b0800000000000000
+      internalID: -5618430179821229964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_153
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 35
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840dc79f822437af0800000000000000
+      internalID: -399903198154010552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_154
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 35
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41a372528a5b8000800000000000000
+      internalID: 39224537538339150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_155
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 45
+        width: 87
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fd3c17eb6ab0230800000000000000
+      internalID: 3606159263522873109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_156
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 45
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44baf9344f885d40800000000000000
+      internalID: 5573362062064268363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_157
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 45
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ed3a709facfc0c0800000000000000
+      internalID: -4553197527324434891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_158
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 45
+        width: 85
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f3ef04d5ba4d770800000000000000
+      internalID: 8634714802586795903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_159
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 45
+        width: 86
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3583ff882118080800000000000000
+      internalID: -9187041385252367404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_160
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 45
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711a3a17dca1085f0800000000000000
+      internalID: -756575267721076457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_161
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 45
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6048105dd0b9de760800000000000000
+      internalID: 7488812239097529350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: braid_sprites_2_162
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 45
+        width: 87
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9cc3a7d62225d0800000000000000
+      internalID: -3088863686814818992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

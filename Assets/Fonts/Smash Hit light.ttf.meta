@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2e616986e227a384f8b91e2cf13c9e45
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Smash Hit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 83c4d616a6b1b874493e77415b1c052d, type: 3}
+  - {fileID: 12800000, guid: b5fb81d1386d8df47b894fca08c691ec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
